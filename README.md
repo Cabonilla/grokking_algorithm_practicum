@@ -10,3 +10,5 @@ respository for the practice examples.
 * Basic Data Structures
 * Also Algorithms
 * The word "grokk". 
+* Jupyter lab utility. 
+* Notes in Python. 
